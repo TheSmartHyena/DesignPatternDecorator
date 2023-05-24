@@ -1,5 +1,5 @@
 import java.util.Base64;
-
+// ConcreteDecorator
 public class DecodeMessagerieDecorator extends MessagerieDecorator {
     public DecodeMessagerieDecorator(IMessagerie messagerie) {
         super(messagerie);

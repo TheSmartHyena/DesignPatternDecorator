@@ -1,3 +1,4 @@
+// ConcreteComponent
 public class Messagerie implements IMessagerie {
     private String message;
     private int destinataire;

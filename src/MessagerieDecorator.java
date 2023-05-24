@@ -1,3 +1,4 @@
+// Decorator
 public class MessagerieDecorator implements IMessagerie {
     protected IMessagerie messagerie;
 
